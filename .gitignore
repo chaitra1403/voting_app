@@ -2,4 +2,6 @@
 generated-files
 playwright/node_modules
 playwright/test-results/*
+playwright/playwright-report/*
 playwright/package-lock.json
+playwright/results.json
