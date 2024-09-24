@@ -1,2 +1,5 @@
 .DS_Store
 generated-files
+playwright/node_modules
+playwright/test-results/*
+playwright/package-lock.json
